@@ -1,4 +1,3 @@
-Hi, my Name is Ben or BeneX, 
-i make a retraining as Developer, i like C# and want to learn more.
+Welcome on my Page, my Name is Ben and on the Way to become a Software Developer with C#/.Net
 
-My Repositorys are free for all.
+The most Projects are free to use.
