@@ -1,5 +1,4 @@
-Welcome on my Page, my Name is Ben and i am a C#/.NET/Typescript Software Developer.
+Welcome to my page, my name is Ben and I'm a C#/.NET/Typescript software developer.
 
-My Last Projects are my Typescript Discord Bot's and my Web Scraper.
-
-Under Portfolio are my little Projects as Collection.
+My last projects are a Discord Bot (typescript) and a web scraper (C#).
+You can find many smaller projects in my Portfolio repository.
